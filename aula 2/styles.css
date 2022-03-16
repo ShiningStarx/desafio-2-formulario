@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #323730;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 37px;
+    margin-bottom: 22px;
+    color: #3F3D56;
+}
+
+.label-text{
+    font-size: 14px;
+    margin-bottom: 4px;
+    height: 24px;
+    color: #323730;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 22px;
+}
+.box2{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 28px;
+}
+
+
+.label-text2{
+    font-size: 24px;
+    margin-bottom: 9px;
+    height: 24px;
+    color: #323730;
+}
+.text-box{
+    height: 47px;
+    width: 396;
+
+}
+
+.login-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 37px;
+    margin-top: 68px;
+    margin-bottom: 31px;
+    height: 43px;
+    color:#3F3D56 ;
+
+}
+.link{
+    color:#1DB9E0;
+}
+
+.label-text-login{
+    height: 16px;
+    font-size: 14px;
+    margin-bottom: 6;
+    
+    
+}
+
+.recuperação-subtext{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-bottom: 28px;
+    height: 38px;
+    color: #5A6256;
+}
+.label-text-recuperação{
+    font-size: 14px;
+    margin-bottom: 5px;
+    height: 24px; 
+    }
